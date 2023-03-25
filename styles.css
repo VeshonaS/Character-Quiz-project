@@ -1,0 +1,29 @@
+img {
+    width: 230px;
+  
+}
+
+button {
+    color: lightblue;
+    background-color: black;
+    border-radius: 50px;
+}
+body {
+    background-color: black;
+    color: lavender;
+}
+
+.konata{
+      display: none;
+    }
+.large{
+   width:380px; 
+    }
+    
+.kagami{
+      display: none;}
+.tsukasa{
+      display: none;}
+.miyuki{
+      display: none;}
+        
